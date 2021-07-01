@@ -9,7 +9,7 @@ const CONFIG = {
     title: 'Dạo này bận quá nhưng khum sao vẫn có thời gian rãnh để tặng em cái thứ sến rện này 😉',
     question: 'Sau dịch muốn đi ăn gì',
     btnReply: 'Quăng dô đây',
-    reply: 'Ăn vặt, ún trà sữa',
+    reply: 'Ăn vặt, ún trà sữa        ',
     mess: 'Hết gòi, sến vậy đủ gòi 😁',
     messDesc: 'Ráng đợi hết dịch nhé',
     btnAccept: 'Kê lun ❤',
